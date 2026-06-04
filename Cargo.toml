@@ -1,0 +1,7 @@
+[package]
+name = "ternary-pipeline"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Composable pipelines for ternary data processing"
+repository = "https://github.com/SuperInstance/ternary-pipeline"
